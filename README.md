@@ -18,3 +18,5 @@ Poder consultar dudas del reglamento o osbre la institucion
 # Nombre
 Fernando Rodriguez Serrano
 # Tecnologias
+## Estado del proyecto
+Prototipo inicial.
